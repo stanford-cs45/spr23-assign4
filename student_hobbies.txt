@@ -1,3 +1,4 @@
+Baseball (flt)
 Reading (rmoktad)
 Drawing (jdkula)
 Carta (ifh919)
@@ -12,6 +13,6 @@ Rock Climbing (mmj710)
 Tennis (jchen18 rmoktad)
 Taekwondo (adibsood jaaikey)
 Surfing (adrazen kbartolo mmj710)
-Soccer (jaaikey ifh919 mchanish)
+Soccer (jaaikey ifh919 mchanish flt)
 Languages (akshay01 jdkula nadint njlee adibsood rupertlu jchen18 andreahu)
 
